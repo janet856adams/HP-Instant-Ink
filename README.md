@@ -1,7 +1,7 @@
 # HP Instant Ink Project
 
 ## Description
-The HP Instant Ink Project is designed to create a seamless subscription service for delivering ink to your printer based on your printing needs. The service automatically monitors ink levels and sends replacement cartridges before you run out. The goal is to provide a cost-effective and convenient solution for maintaining your printer's ink supply.
+The <a href="https://www-hpinstantink.com">HP Instant Ink</a> Project is designed to create a seamless subscription service for delivering ink to your printer based on your printing needs. The service automatically monitors ink levels and sends replacement cartridges before you run out. The goal is to provide a cost-effective and convenient solution for maintaining your printer's ink supply.
 
 ## Features
 - Automatic ink monitoring and delivery
